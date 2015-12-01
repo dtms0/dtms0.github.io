@@ -7911,6 +7911,9 @@ a.cast {
 .psy-pink {
   color: #FF80AB; }
 
+.psy-yellow {
+  color: #FFEA00; }
+
 .psy-orange {
   color: #FFAB40; }
 
@@ -7924,4 +7927,7 @@ a.cast {
   color: #84FFFF; }
 
 .psy-red {
-  color: #ff1744; }
+  color: #FF1744; }
+
+.psy-special {
+  color: #F50057; }
